@@ -1,21 +1,21 @@
 # Data_Analysis_Portfolio
 
-...
+----
 
 # Project Name:
 
-...
+----
 
-#Project Objective:
+# Project Objective:
 
-...
+----
 
-#Data Sourcing:
+# Data Sourcing:
 
-...
+----
 
-#Data Transformation:
+# Data Transformation:
 
-...
+----
 
-#Findings and Recommendation:
+# Findings and Recommendation:
